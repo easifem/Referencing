@@ -21,7 +21,7 @@ authors:
 identifiers:
   - type: url
     value: 'https://github.com/easifem'
-repository-code: 'https://github.com/easifem/base'
+repository-code: 'https://github.com/easifem'
 url: 'https://www.easifem.com/'
 abstract: >-
   EASIFEM is modern-fortran platform developed to facilitate
